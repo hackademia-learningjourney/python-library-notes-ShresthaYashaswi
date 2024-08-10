@@ -1,0 +1,75 @@
+1. Pandas:
+Pandas is a free software that offers data structures and operations to manipulate numerical tables and time series. 
+It is basically a software library written for the Python programming language.
+It is helpful in filtering, sorting and calculating things with data.
+Pros:
+-provides fast, flexible and expressive data structures
+Cons:
+-inefficient(since it requires approx 5-10 times as much memory as the size of the data)
+-it does not support parallel computing across different cores
+
+2. NumPy:
+NumPy is a free, open-source library for the Python programming language
+It adds support for large, multi-dimensional arrays and matrices.
+It also has a big collection of high-level mathematics functions to opporate on these arrays.
+It is mainly used for numerical data, scientific computing concepts and it has built in mathematical functions. 
+Pros:
+-it is beginner friendly and flexible
+-it also integrates with other programming languages other than Python
+- allows you to reduce memory usage and optimize code
+-increases the mathematical functions that can be used
+Cons:
+-It does not provide as much flexible access to data as Pandas can
+- It is better suited for homogenous data so it is not ideal for tranforming or altering data
+
+3. Tensorflow:
+Tensorflow is a free and open-source software library for AI and machine learning. 
+It was developed by Google Brain team for use in research. 
+It is used for developing machine learning applications and neural networks.
+ 
+Pros:
+-it can be used in many different programming languages such as Python, Javascript and C++
+- it has a broad library of pre-trained models available for use in projects
+- it has better data visulaization power
+ Cons:
+-does not have Windows support
+- it is comparatively slow 
+
+4. Keras
+Keras is an open-source library that provides Python interface for artificial neural networks.
+Keras is useful in faster creation of models and robust support for deployment and adoption.   
+It is used for research and development within deep learing. It can also be used to create guides for developers and documentation thorughout a project.
+Pros:
+- it is simple and easy to use
+-it provides many pre-trained models
+Cons:
+-the errors given by the Keras library are not effective
+-gives you low-level errors many times
+-does not support features of dynamic chart creation
+
+5. Sklearn
+Sklearn or scikit-learn is an open source library used for predictive data analysis. 
+It is useful for statistical modeling and machine learning. 
+It has effective tools such as regression, classification, clustering and dimensionality reduction.
+Pros:
+-It is free and has less liscensing restrictions.
+- A vast number of authors and online community contributes to it. 
+-Easy to use.
+Cons: 
+-Relatively not as useful for in-depth learning.
+
+6. Pytorch
+It was developed by Facebook and it has an extensive library that can be used to build complete modules.
+It has strong support for GPU acceleration.
+It is used for deep learning and neural network.
+Pros:
+-it has a user-friendly design and structure
+- has many pre-trained models
+-has useful debugging tools
+Cons: 
+-since it is relatively new, it currently has less community support
+- does not have interfaces for monitoring and visualization
+
+
+
+
